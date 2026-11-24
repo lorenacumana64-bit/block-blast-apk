@@ -1,0 +1,8 @@
+{
+  "appId": "com.arcade.blockblast",
+  "appName": "Block Blast",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#192954"
+  }
+}
